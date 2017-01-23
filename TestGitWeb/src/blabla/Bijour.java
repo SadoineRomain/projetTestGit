@@ -8,5 +8,5 @@ public class Bijour {
 
 	private String sgkjgj;
 	private String toto;
-	private int fshbfhnfnh;
+	private int fshbfhnf123231nh;
 }
