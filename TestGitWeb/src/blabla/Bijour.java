@@ -7,5 +7,6 @@ public class Bijour {
 	}
 
 	private String sgkjgj;
-
+	private String toto;
+	private int nbnb;
 }
