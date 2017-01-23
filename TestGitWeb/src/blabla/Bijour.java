@@ -9,4 +9,5 @@ public class Bijour {
 	private String sgkjgj;
 	private String toto;
 	private int fshbfhnf123231nh;
+	private Double romain = 666D;
 }
